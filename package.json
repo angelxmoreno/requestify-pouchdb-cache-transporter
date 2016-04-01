@@ -1,0 +1,39 @@
+{
+  "name": "requestify-pouchdb",
+  "version": "0.1.0",
+  "description": "A cache transport for requestify that uses PouchDb",
+  "main": "./index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "PouchDb",
+    "requestify",
+    "cache",
+    "cache",
+    "transport",
+    "http",
+    "request"
+  ],
+  "author": {
+    "name": "Angel S. Moreno",
+    "email": "angelxmoreno@gmail.com",
+    "url": "https://angelxmoreno.github.io/"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/angelxmoreno/requestify-pouchdb-cache-transporter#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelxmoreno/requestify-pouchdb-cache-transporter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/angelxmoreno/requestify-pouchdb-cache-transporter/issues"
+  },
+  "dependencies": {
+    "pouchdb": "^5.3.1",
+    "pouchdb-upsert": "^2.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
