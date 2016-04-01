@@ -1,6 +1,6 @@
 {
   "name": "requestify-pouchdb",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A cache transport for requestify that uses PouchDb",
   "main": "./index.js",
   "scripts": {
