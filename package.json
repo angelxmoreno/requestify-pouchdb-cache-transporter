@@ -20,6 +20,13 @@
     "email": "angelxmoreno@gmail.com",
     "url": "https://angelxmoreno.github.io/"
   },
+  "contributors": [
+    {
+      "name": "Angel S. Moreno",
+      "email": "angelxmoreno@gmail.com",
+      "url": "https://angelxmoreno.github.io/"
+    }
+  ],
   "license": "MIT",
   "homepage": "https://github.com/angelxmoreno/requestify-pouchdb-cache-transporter#readme",
   "repository": {
@@ -35,5 +42,8 @@
   },
   "devDependencies": {
     "chai": "^3.5.0"
+  },
+  "peerDependencies": {
+    "requestify": "^0.1.17"
   }
 }
